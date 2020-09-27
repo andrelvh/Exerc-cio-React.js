@@ -1,0 +1,11 @@
+.itens{
+    text-align: center;
+}
+.titulo-itens{
+    font-weight: bold;
+    font-size: 17px;
+}
+.preco-itens{
+    color: darkgreen;    
+    font-weight: bold;
+}
